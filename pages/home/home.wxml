@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="title">Home Word!</text>
+<button size="mini">保存</button>
